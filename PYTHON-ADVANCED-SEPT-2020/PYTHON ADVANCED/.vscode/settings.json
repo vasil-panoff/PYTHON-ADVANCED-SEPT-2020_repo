@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        "10_EXAM_PREPARATION"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
