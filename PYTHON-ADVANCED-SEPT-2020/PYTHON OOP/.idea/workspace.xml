@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24e6ac35-1249-4019-a073-f2b87e21a5a1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +23,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/06_POLIMORPHISM_AND_MAGIC_METHODS/EXERCISE" />
+  </component>
   <component name="ProjectId" id="1jkFPHnog0THFQulJC6BtVjwP2l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/13_EXAM_PREP" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -30,8 +44,8 @@
       <recent name="C:\Users\vasil\PycharmProjects\PYTHON ADVANCED SEPT 2020\PYTHON OOP\01_DEFINING_CLASSES\EXERCISE\08_spoopify\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dvd">
-    <configuration name="01-photo-album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.animal">
+    <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_ATTRIBUTES_AND_METHODS/EXERSICE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_SOLID/LAB/SOLID LAB/02_OCP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_ATTRIBUTES_AND_METHODS/EXERSICE/01-photo-album.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_SOLID/LAB/SOLID LAB/02_OCP/animal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="customer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="books" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +74,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_ATTRIBUTES_AND_METHODS/EXERSICE/02-movie-world/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_SOLID/LAB/SOLID LAB/01_SRP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_ATTRIBUTES_AND_METHODS/EXERSICE/02-movie-world/project/customer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_SOLID/LAB/SOLID LAB/01_SRP/books.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_SOLID/LAB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_SOLID/LAB/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="single_responsibility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,32 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_ATTRIBUTES_AND_METHODS/EXERSICE/02-movie-world" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_SOLID/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_ATTRIBUTES_AND_METHODS/EXERSICE/02-movie-world/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="movie_world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_ATTRIBUTES_AND_METHODS/EXERSICE/02-movie-world/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_ATTRIBUTES_AND_METHODS/EXERSICE/02-movie-world/project/movie_world.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_SOLID/LAB/single_responsibility.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.animal" />
+        <item itemvalue="Python.books" />
+        <item itemvalue="Python.single_responsibility" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.dvd" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.customer" />
-        <item itemvalue="Python.movie_world" />
-        <item itemvalue="Python.01-photo-album" />
       </list>
     </recent_temporary>
   </component>
@@ -157,51 +171,17 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="427" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1605640307107">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state x="427" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.30.1366.738@0.30.1366.738" timestamp="1605640307107" />
-    <state x="463" y="154" key="FileChooserDialogImpl" timestamp="1605640529480">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state x="463" y="154" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1605640529480" />
-    <state width="661" height="181" key="GridCell.Tab.0.bottom" timestamp="1605725569880">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state width="661" height="181" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1605725569880" />
-    <state width="661" height="181" key="GridCell.Tab.0.center" timestamp="1605725569879">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state width="661" height="181" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1605725569879" />
-    <state width="661" height="181" key="GridCell.Tab.0.left" timestamp="1605725569879">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state width="661" height="181" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1605725569879" />
-    <state width="661" height="181" key="GridCell.Tab.0.right" timestamp="1605725569879">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state width="661" height="181" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1605725569879" />
-    <state width="1345" height="226" key="GridCell.Tab.1.bottom" timestamp="1605652781119">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state width="1345" height="226" key="GridCell.Tab.1.bottom/0.30.1366.738@0.30.1366.738" timestamp="1605652781119" />
-    <state width="1345" height="226" key="GridCell.Tab.1.center" timestamp="1605652781119">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state width="1345" height="226" key="GridCell.Tab.1.center/0.30.1366.738@0.30.1366.738" timestamp="1605652781119" />
-    <state width="1345" height="226" key="GridCell.Tab.1.left" timestamp="1605652781118">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state width="1345" height="226" key="GridCell.Tab.1.left/0.30.1366.738@0.30.1366.738" timestamp="1605652781118" />
-    <state width="1345" height="226" key="GridCell.Tab.1.right" timestamp="1605652781119">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state width="1345" height="226" key="GridCell.Tab.1.right/0.30.1366.738@0.30.1366.738" timestamp="1605652781119" />
-    <state x="184" y="44" key="SettingsEditor" timestamp="1605640278433">
-      <screen x="0" y="30" width="1366" height="738" />
-    </state>
-    <state x="184" y="44" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1605640278433" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
